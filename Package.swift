@@ -4,7 +4,7 @@ import PackageDescription
 
 let package = Package(
     name: "NWWebSocket",
-    platforms: [.iOS("14.0"),
+    platforms: [.iOS("13.0"),
                 .macOS("13.0"),
                 .tvOS("16.0"),
                 .watchOS("10.0")],
